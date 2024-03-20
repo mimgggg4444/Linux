@@ -18,3 +18,7 @@ LANG="ko_KR.UTF-8" wine KakaoTalk_Setup.exe
 
 
 설정을 통한 테마 변경 및 리눅스 꾸미기
+
+
+### part1
+크롤링을 통한 대림대 웹 페이지 가져오기
