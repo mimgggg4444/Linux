@@ -27,4 +27,3 @@ div 태그 sponge-book-title 가져오기
 
 https://lib.daelim.ac.kr/Search/Detail/[ 6자리 숫자 ] 
 
-하다가 현타. 굳이 리눅스로 해야하는가. 리눅스 명령어 정리하기
