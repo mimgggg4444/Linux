@@ -24,3 +24,7 @@ LANG="ko_KR.UTF-8" wine KakaoTalk_Setup.exe
 크롤링을 통한 대림대 웹 페이지 가져오기
 bs4 라이브러리 사용
 div 태그 sponge-book-title 가져오기
+
+https://lib.daelim.ac.kr/Search/Detail/[ 6자리 숫자 ] 
+
+하다가 현타. 굳이 리눅스로 해야하는가. 리눅스 명령어 정리하기
