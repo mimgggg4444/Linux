@@ -22,3 +22,5 @@ LANG="ko_KR.UTF-8" wine KakaoTalk_Setup.exe
 
 ### part1
 크롤링을 통한 대림대 웹 페이지 가져오기
+bs4 라이브러리 사용
+div 태그 sponge-book-title 가져오기
