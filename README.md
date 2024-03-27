@@ -2,7 +2,7 @@
 리눅스 명령어 및 리눅스 사용설명
 
 0327 수업 내용
-alias 명령어를 사용한 단축키 생성, history, echo명령어를 활용한 계산식 활용, sleep, kill, cd ~/, tabs을 통한 명령어 미리보기, 프롬프트 제어 기능, find, nano(택스트 편집), echo $HOME, echo $PS1
+alias 명령어를 사용한 단축키 생성, history, echo명령어를 활용한 계산식 활용, sleep, kill, cd ~/, tabs을 통한 명령어 미리보기, 프롬프트 제어 기능, find, nano(택스트 편집), echo $HOME, echo $PS1, 
 <img width="732" alt="스크린샷 2024-03-27 오전 10 37 17" src="https://github.com/mimgggg4444/Linux/assets/66135779/9ee00097-c295-4f54-9f45-f44c17589ddb">
 
 와인 라이브러리, 관리자 계정권한 획득 (su -)
