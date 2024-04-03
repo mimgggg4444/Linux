@@ -1,3 +1,3 @@
 #!/bin/bash
-echo -e "Line 1\nLine 2\nLine 3\nLine 4\nLine 5" > multiLine.txt
+echo "Line 1\nLine 2\nLine 3\nLine 4\nLine 5" > multiLine.txt
 head -n 3 multiLine.txt
