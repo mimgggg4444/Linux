@@ -1,0 +1,4 @@
+#!/bin/bashcd
+cd ~
+pwd
+
