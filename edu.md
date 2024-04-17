@@ -1,4 +1,23 @@
 # Linux
+
+
+WEEK 4
+
+change test
+
+명령어
+
+nano, cat
+
+sh git-auto
+
+git remote update, git pull,
+
+rm -r example_directory
+
+
+
+
 리눅스 명령어 및 리눅스 사용설명
 
 0327 수업 내용
