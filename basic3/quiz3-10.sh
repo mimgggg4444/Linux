@@ -8,10 +8,13 @@ dir_count=0
 for item in *; do
     if [ -f "$item" ]; then
         # 파일인 경우 파일 수를 증가
-        ((file_count++))
+#        ((file_count + 1))
+	file_count=$((file_count + 1))
     elif [ -d "$item" ]; then
         # 디렉토리인 경우 디렉토리 수를 증가
-        ((dir_count++))
+#        ((dir_count++))
+	dir_count=$((fir_count + 1))
+
     fi
 done
 
