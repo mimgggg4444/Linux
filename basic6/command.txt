@@ -9,7 +9,8 @@
 - groupdel: 그룹 삭제 (groupdel 그룹이름)
 - gpasswd: 그룹 비밀번호/구성원 관리 (gpasswd 옵션 그룹이름)
 
-```
+``` shell
+
 +---------------+
                       |      root     |
                       | (Superuser)   |
