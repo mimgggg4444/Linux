@@ -1,5 +1,10 @@
-
-
-
-
-
+- adduser: 새 사용자 추가 (adduser 사용자이름)
+- passwd: 사용자 비밀번호 변경 (passwd 사용자이름)
+- usermod: 사용자 속성 변경 (usermod 옵션 사용자이름)
+- userdel: 사용자 삭제 (userdel 사용자이름)
+- chage: 사용자 비밀번호 정책 설정 (chage 옵션 사용자이름)
+- groups: 사용자가 속한 그룹 출력 (groups 사용자이름)
+- groupadd: 새 그룹 추가 (groupadd 그룹이름)
+- groupmod: 그룹 속성 변경 (groupmod 옵션 그룹이름)
+- groupdel: 그룹 삭제 (groupdel 그룹이름)
+- gpasswd: 그룹 비밀번호/구성원 관리 (gpasswd 옵션 그룹이름)
